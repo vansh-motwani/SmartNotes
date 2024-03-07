@@ -8,9 +8,9 @@
     <br />
     <!-- <a href="https://github.com/vansh-motwani">View Demo</a> -->
     <!-- · -->
-    <a href="https://github.com/vansh-motwani/smart_notes/tree/main/iNotebook-master/issues">Report Bug</a>
+    <a href="https://github.com/vansh-motwani/smart_notes/issues">Report Bug</a>
     ·
-    <a href="https://github.com/vansh-motwani/smart_notes/tree/main/iNotebook-master/issues">Request Feature</a>
+    <a href="https://github.com/vansh-motwani/smart_notes/issues">Request Feature</a>
   </p>
 </div>
 
