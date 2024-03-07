@@ -8,9 +8,9 @@
     <br />
     <!-- <a href="https://github.com/vansh-motwani">View Demo</a> -->
     <!-- · -->
-    <a href="https://github.com/vansh-motwani/smart_notes/issues">Report Bug</a>
+    <a href="https://github.com/vansh-motwani/SmartNotes/issues">Report Bug</a>
     ·
-    <a href="https://github.com/vansh-motwani/smart_notes/issues">Request Feature</a>
+    <a href="https://github.com/vansh-motwani/SmartNotes/issues">Request Feature</a>
   </p>
 </div>
 
@@ -86,7 +86,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/vansh-motwani/smart_notes/tree/main/iNotebook-master/
+   git clone https://github.com/vansh-motwani/SmartNotes/tree/main/iNotebook-master/
    ```
 3. Install NPM packages
    ```sh
@@ -132,7 +132,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Vansh Motwani - [@vanshmotwani16](https://www.instagram.com/vanshmotwani16/) - vanshmotwani16@gmail.com
 
-Project Link: [iNotebook](https://github.com/vansh-motwani/smart_notes/tree/main/iNotebook-master/)
+Project Link: [iNotebook](https://github.com/vansh-motwani/SmartNotes/tree/main/iNotebook-master/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
